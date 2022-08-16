@@ -2,7 +2,6 @@
 
 <h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)
 
-<a href="https://dsc.gg/botverif">ADD VERIFICATION BOT TO YOUR SERVER (ONLINE 24/24)</a>
 </h1></h1>
   
  
