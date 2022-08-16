@@ -42,7 +42,6 @@ By using this Bot, you agree that you hold responsibility and accountability of 
 - Can gives a role to the user after his verification
 - Can send a message to all the user's DMs + all user's Friend
 - Possibility to define a logs channel
-- Easy to use + Intuitive UI (like my [SelfBot](https://github.com/AstraaDev/Discord-SelfBot))
 
 ## How To Setup/Install
 
@@ -81,12 +80,11 @@ $ python main.py
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://youtu.be/B5xxURQtd3A) to watch the YouTube video.
 - If you find any malfunction, contact me on Discord: issa#1111.
 
 
 ## Example
-![verification_example.png](https://cdn.discordapp.com/attachments/826581697436581919/989174080332787712/unknown.png?size=4096)
+![verification_example.png](https://cdn.discordapp.com/attachments/959496233259515915/1009221752527794307/unknown.png?size=4096)
 
 
 
