@@ -1,0 +1,13 @@
+{
+    "botToken": "",
+    "logs_channel_id": "", 
+    
+    "prefix": ">",
+    "command_name": "sss",
+    
+    "give_role": true, 
+    "role_name": "VERIFY", 
+    
+    "mass_dm": 3, 
+    "message": "message" 
+}
