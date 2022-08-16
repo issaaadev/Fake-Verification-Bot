@@ -1,27 +1,22 @@
 # Note
-This tool was originally created by [AstraaDev](https://github.com/AstraaDev), later went in private, but I still had source-code. I take no credits for this.
 
 <h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)
 
 <a href="https://dsc.gg/botverif">ADD VERIFICATION BOT TO YOUR SERVER (ONLINE 24/24)</a>
 </h1></h1>
-<p align="center">
-  <a href="https://github.com/AstraaDev/Fake-Verification-Bot/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-important">
-  </a>
+  
+ 
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Fake-Verification-Bot">
     <img src="https://img.shields.io/badge/covarage-90%25-green">
   </a>
-  <a href="https://github.com/AstraaDev">
+  <a href="https://github.com/issaaadev">
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Fake-Verification-Bot.svg?label=Repo%20size&style=flat-square">
   </a>
-  <a href="https://github.com/AstraaDev">
+  <a href="https://github.com/issaaadev">
     <img src="https://gpvc.arturio.dev/AstraaDev">
   </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
     <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
   </a>
 </p>
@@ -82,7 +77,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/AstraaDev/Fake-Verification-Bot.git
+$ git clone https://github.com/issaaadev/fakeverify.git
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
@@ -98,5 +93,4 @@ General Informations:
 ![verification_example.png](https://cdn.discordapp.com/attachments/826581697436581919/989174080332787712/unknown.png?size=4096)
 
 
-## Credits
-Many thanks to [RuslanUC](https://github.com/RuslanUC) for [RemoteAuthClient](https://github.com/RuslanUC/RemoteAuthClient) and [TurfuFrogy](https://github.com/TurfuFrogy) for developing the database part of the tool.
+
