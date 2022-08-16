@@ -15,10 +15,7 @@
     <img src="https://img.shields.io/github/repo-size/AstraaDev/Fake-Verification-Bot.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/issaaadev">
-    <img src="https://gpvc.arturio.dev/AstraaDev">
-  </a>
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
-  </a>
+ </a>
 </p>
 
 <p align="center">
@@ -84,9 +81,8 @@ $ python main.py
 
 ## Additional Informations
 General Informations:
-- You can also add [Verification Bot](https://dsc.gg/botverif) to your server. (online 24/24h)
 - If you have a problem, [CLICK HERE](https://youtu.be/B5xxURQtd3A) to watch the YouTube video.
-- If you find any malfunction, contact me on Discord: Astraa#6100 or join my [Discord Server](https://dsc.gg/astraadev).
+- If you find any malfunction, contact me on Discord: issa#1111.
 
 
 ## Example
